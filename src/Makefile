@@ -67,7 +67,7 @@ endif
 
 .PHONY: all clean gcov_report test html_rebuild check_rebuild
 
-all: clean s21_matrix.a
+all: clean s21_matrix.a test
 
 html_rebuild: clean gcov_report
 test_rebuild: clean test
