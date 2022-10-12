@@ -3,9 +3,9 @@
 ## Content
 
 1.[Information](#1-information)\
-1.[Functions and task](#2-functions-and-task)\
-1.[Goals](#3-goals)\
-1.[Build](#4-build)
+2.[Functions and task](#2-functions-and-task)\
+3.[Goals](#3-goals)\
+4.[Build](#4-build)
 
 ## 1. Information
 In this project, I implemented my own library for processing numerical matrices in the C programming language.
